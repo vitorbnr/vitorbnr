@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 👋 Olá! Sou Vitor Bernardo Batista, tenho 21 anos e sou graduado em Análise e Desenvolvimento de Sistemas pela Universidade Santo Amaro (UNISA). Com foco no desenvolvimento back-end, possuo experiência em Java e Spring Boot para criar APIs eficientes e escaláveis.<br><br>📚 Em aprendizado: Atualmente, estou aprofundando meus conhecimentos em Docker e AWS para expandir minhas habilidades em ambientes de nuvem e containerização. Também estou explorando o universo do front-end com Angular, com o objetivo de me tornar um desenvolvedor full-stack.<br><br>💼 Habilidades principais:<br><br>✅ Java | Spring Boot | APIs REST<br><br>✅ SQL | Banco de Dados<br><br>🔄 Docker (em aprendizado) | ☁️ AWS (em aprendizado)<br><br>🎯 Interesse em desenvolvimento front-end (Angular)<br><br>🚀 Objetivo: Contribuir com projetos inovadores e desenvolver habilidades tanto no back-end quanto no front-end, visando me tornar um profissional completo e versátil.<br><br>🌟 Curiosidades: Adoro resolver problemas complexos e transformar ideias em soluções práticas e eficientes. No meu tempo livre, gosto de explorar novas tecnologias.
 
 
