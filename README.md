@@ -39,7 +39,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado 
     <img src="https://img.shields.io/badge/Spring Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   </p>
   <p>
-    <strong>Cloud & DevOps:</strong><br>
+    <strong>Cloud & DevOps (Aprendendo):</strong><br>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </p>
