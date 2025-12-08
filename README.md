@@ -62,12 +62,18 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho trabalhado 
 
 ---
 
-
 ## 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitorbnr&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de vitorbnr"/>
-</p>
+<div align="center">
+  <a href="https://github.com/vitorbnr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorbnr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbnr&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorbnr&theme=tokyonight" alt="vitorbnr" />
+</div>
 
 ---
 
