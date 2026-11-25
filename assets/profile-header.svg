@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Vitor Bernardo Batista — Backend Software Engineer">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1324"/><stop offset="1" stop-color="#142c43"/></linearGradient>
+  <linearGradient id="line"><stop stop-color="#72dcce"/><stop offset="1" stop-color="#4c8ee2"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7196b9" stroke-opacity=".10"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="318" rx="20" fill="url(#bg)" stroke="#36546d"/>
+<rect x="700" y="2" width="498" height="316" rx="19" fill="url(#grid)"/>
+<path d="M38 34H1162" stroke="#54738d" stroke-opacity=".4"/>
+<g font-family="monospace" font-size="12" letter-spacing="2" fill="#8caac2">
+<text x="42" y="25">VBNR / ENGINEERING PROFILE</text><text x="1158" y="25" text-anchor="end">BR / 01</text>
+</g>
+<rect x="42" y="68" width="45" height="4" rx="2" fill="url(#line)"/>
+<g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
+<text x="42" y="108" font-size="23" font-weight="500" fill="#91b3ce">Vitor Bernardo Batista</text>
+<text x="40" y="167" font-size="48" font-weight="700" letter-spacing="-1.4" fill="#f1f6fc">Backend Software</text>
+<text x="40" y="219" font-size="48" font-weight="700" letter-spacing="-1.4" fill="#76ddce">Engineer.</text>
+<text x="43" y="258" font-size="18" fill="#b0c4d7">Arquitetura de software · Cloud · IA aplicada</text>
+<text x="43" y="286" font-family="monospace" font-size="12" fill="#839db5">DO PROBLEMA À PRODUÇÃO.</text>
+</g>
+<g fill="none" stroke="#72dccc" stroke-opacity=".55" stroke-width="1.5">
+<path d="M748 156H790V84H865 M790 156V235H865 M965 84H1010V156H1050 M965 235H1010V156 M965 156H1050 M915 108V132 M915 180V211"/>
+</g>
+<g font-family="monospace" font-size="13" text-anchor="middle" font-weight="600">
+<rect x="716" y="135" width="64" height="42" rx="7" fill="#172b40" stroke="#426780"/><text x="748" y="161" fill="#b8d3e9">API</text>
+<rect x="865" y="60" width="100" height="48" rx="8" fill="#172b40" stroke="#426780"/><text x="915" y="89" fill="#b8d3e9">DATA</text>
+<rect x="856" y="132" width="118" height="48" rx="8" fill="#1b3c43" stroke="#76ddce"/><text x="915" y="161" fill="#a0f0df">BACKEND</text>
+<rect x="865" y="211" width="100" height="48" rx="8" fill="#172b40" stroke="#426780"/><text x="915" y="240" fill="#b8d3e9">EVENTS</text>
+<rect x="1050" y="132" width="104" height="48" rx="8" fill="#172b40" stroke="#426780"/><text x="1102" y="161" fill="#b8d3e9">AI / OPS</text>
+</g>
+<g fill="#76ddce"><circle cx="790" cy="156" r="3"/><circle cx="1010" cy="156" r="3"/><circle cx="915" cy="120" r="2.5"/><circle cx="915" cy="196" r="2.5"/></g>
+<text x="1158" y="290" text-anchor="end" font-family="monospace" font-size="11" fill="#849fb8" letter-spacing="1">BUILD / VERIFY / EVOLVE</text>
+</svg>
